@@ -5,7 +5,7 @@ Id:CT12DS267O
 Duration:Oct to Dec 2024
 
 Overview of the To-Do List Project
-This is a simple and interactive To-Do List web application that allows users to add, mark as completed, and delete tasks. It is built with HTML, CSS, and JavaScript, and includes persistent task storage using localStorage, so the list is saved even when the page is reloaded.
+This is a simple and interactive To-Do List web application that allows users to add, mark as completed,and delete tasks. It is built with HTML, CSS, and JavaScript, and includes persistent task storage using localStorage, so the list is saved even when the page is reloaded.
 
 Key Features:
 HTML (Structure):
