@@ -80,3 +80,4 @@ Introduce subtle animations for adding, completing, and deleting tasks to make t
 
 Conclusion:
 This To-Do List application is a functional and simple project that demonstrates key concepts in web development, such as DOM manipulation, event handling, and localStorage. With some improvements and additional features, it could be a robust, fully-featured task management app.
+![image_Alt]("https://github.com/Yazhini1727/CODTECH-Task2/blob/d72c3eb1d5288dae7bb5f1611224218aaa7a8034/to-do.png")
